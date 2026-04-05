@@ -69,24 +69,6 @@ That's it. Cursor will auto-discover the skills.
 
 ---
 
-## 📤 Publishing to cursor.directory
-
-cursor.directory accepts single-file `.cursorrules` format. To publish these skills there:
-
-1. **Combine skills into `.cursorrules`** — paste the SKILL.md content of both skills into one `.cursorrules` file at the project root (a combined version is at the bottom of this README).
-2. **Go to [cursor.directory](https://cursor.directory)** and click Submit.
-3. **Paste your `.cursorrules`** content into the form.
-4. **Add tags:** `vue`, `nuxt`, `vue3`, `nuxt3`, `typescript`, `composition-api`, `pinia`, `nitro`.
-5. Submit and it will be listed publicly for the community.
-
-Also consider submitting to **[awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)**:
-- Fork the repo
-- Create folder: `vue3-nuxt3-cursorrules-prompt-file/`
-- Add your `.cursorrules` file inside
-- Open a Pull Request
-
----
-
 ## 🤝 Contributing
 
 PRs welcome. To add a new skill (e.g. VueUse, Vitest, Tailwind + Vue):
