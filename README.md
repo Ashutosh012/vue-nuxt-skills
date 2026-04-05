@@ -21,7 +21,7 @@ Copy the `.cursor/` folder into your project root:
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/vue-nuxt-cursor-skills.git
+https://github.com/Ashutosh012/vue-nuxt-skills.git
 
 # Copy into your Vue or Nuxt project
 cp -r vue-nuxt-cursor-skills/.cursor /path/to/your/project/
